@@ -31,6 +31,8 @@ This project contains the following files
 - `hello.py`
 - `test.py`
 
+The `data` folder is ignored
+
 ## Steps to Run the Project
 
 Here are some dammy steeps:
